@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">HolaMundo</string>
+    <string name="titulo_app">Bienvenido</string>
+    <string name="texto" translatable="false">el texto de la aplicacion</string>
+    <string name="boton">Entrar</string>
+    <string name="imagen" translatable="false">esta es una imagen</string>
+</resources>
